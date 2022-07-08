@@ -4,7 +4,7 @@
 - 📖 Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/Dela
 - 🎤 Fun fact: Quase uma cantora profissional
-- 🚢 Trabalho na indústria do Petróleo fazem 4 anos! 
+- 🚢 Trabalho na indústria do Petróleo fazem 3 anos! 
 
 <div align="center">
   <a href="https://github.com/victoriafredman">
