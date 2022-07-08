@@ -17,8 +17,6 @@
   <img align="center" alt="Victoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victoria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victoria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Victoria-pic" height="150" style="border-radius:50px;
-  src="https://github.com/VictoriaFredman/victoriafredman/blob/736758f8b696dd43d1ef2e9461b0376b66ef16e1/victoria.gif">
 </div>
 
   ##
