@@ -1,6 +1,5 @@
 ### Olá Pessoas 🌈
 
-- 🚀 Em transição de carreira..
 - 🔭 FrontEnd Developer no forninho
 - 📖 Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/Dela
