@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-fredman-39140513a" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
  
-![snake gif] (https://github.com/victoriafredman/victoriafredman/blob/output/github-contribution-grid-snake.svg)
-
+ <div>
+ ![snake gif](https://github.com/victoriafredman/victoriafredman/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
