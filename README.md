@@ -2,9 +2,7 @@
 
 - 🔭 UX Design e Cloud Computing
 - 📖 Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ela/Dela
 - Em transição de carreira!
-- 🚢 Trabalho na indústria do Petróleo fazem 4 anos!
 - 🎤 Fun fact: Quase uma cantora profissional
 
 
