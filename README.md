@@ -1,47 +1,62 @@
-# 👋 Bonjour, je suis Vitória
+# ✨ Vitória Fredman
 
-💻 En reconversion vers les métiers de la tech  
-🎨 Spécialisée en UX/UI Design  
+🎨 UX/UI Designer en reconversion  
+💻 Passionnée par la création d’interfaces et l’expérience utilisateur  
 📍 Basée en France  
-🚀 En constante évolution dans le domaine du design et du développement
+🚀 En constante évolution
 
 ---
 
-## 🧠 À propos de moi
+## 🌸 À propos
 
-- Expérience précédente dans le domaine technique (électromécanique)  
-- En formation en développement et design d’interfaces  
-- Intérêt pour la technologie, l’expérience utilisateur et les produits digitaux  
-- Motivé(e) par l’apprentissage et la création de projets concrets  
+Je suis actuellement en transition vers les métiers du design et de la technologie.  
+Mon objectif est de concevoir des expériences digitales intuitives, accessibles et esthétiques.
 
----
-
-## 🎯 UX/UI & Tech
-
-![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-blue)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+J’aime :
+- Comprendre les besoins des utilisateurs  
+- Transformer des idées en interfaces  
+- Apprendre en construisant des projets concrets  
 
 ---
 
-## 🐍 
+## 🎯 Compétences
+
+![UX/UI](https://img.shields.io/badge/UX%2FUI-ff69b4)
+![Design](https://img.shields.io/badge/Design-ffd700)
+![Figma](https://img.shields.io/badge/Figma-ff69b4)
+![HTML](https://img.shields.io/badge/HTML-ff8c00)
+![CSS](https://img.shields.io/badge/CSS-1e90ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd700)
+
+---
+
+## 🐍 Activité GitHub
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff69b4)
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+## 📊 Statistiques
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine)
+
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=rose_pine)
 
 ---
 
-## 📌 Objectifs
+## 🚀 Objectifs
 
-- Consolider mes compétences en UX/UI Design  
-- Créer des projets concrets pour mon portfolio  
-- Développer mes compétences en front-end  
-- Travailler sur des produits digitaux centrés utilisateur  
+- Développer un portfolio solide en UX/UI  
+- Améliorer mes compétences en front-end  
+- Participer à des projets concrets  
+- Travailler sur des produits centrés utilisateur  
+
+---
+
+## 💫 Contact
+
+- LinkedIn : (www.linkedin.com/in/vitoriafredman)  
+- Email : (vitoriafredman@icloud.com)  
 
 ---
 
