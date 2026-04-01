@@ -26,21 +26,12 @@ J’aime :
 ![Figma](https://img.shields.io/badge/Figma-ff69b4)
 ![HTML](https://img.shields.io/badge/HTML-ff8c00)
 ![CSS](https://img.shields.io/badge/CSS-1e90ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd700)
 
 ---
 
 ## 🐍 Activité GitHub
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff69b4)
-
----
-
-## 📊 Statistiques
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine)
-
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=rose_pine)
 
 ---
 
