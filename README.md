@@ -26,15 +26,13 @@
 
 ---
 
-## 🐍 Activité GitHub
+## 🐍 
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff69b4)
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
 ---
 
